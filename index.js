@@ -3,7 +3,7 @@
     var a=$('input[type="button"]');
     var e=6;
     a.val("获取验证码");
-    a.click=function(){
+    function getM(){
       var countN = 6;
       var countDown = setInterval(function() {
           if (countN === 0) {
