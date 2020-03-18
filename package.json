@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/sunmenghan2017/register#readme",
   "devDependencies": {
-    "gitbook-cli": "^2.3.2",
     "grunt": "^1.1.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
